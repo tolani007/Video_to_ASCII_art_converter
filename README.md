@@ -7,6 +7,6 @@ Frame-by-frame conversion: Each frame from the video is resized, converted to gr
 
 Customization: The width of the output ASCII video and the ASCII characters used for the conversion can be customized.
 
-Output: The ASCII art for each frame is saved to a text file, which can be viewed in any text editor or terminal.
+Output: The ASCII art for each frame is saved to a video file, which can be viewed in any video player once downloaded.
 
 
